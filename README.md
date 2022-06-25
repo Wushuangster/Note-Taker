@@ -47,7 +47,7 @@ The following images show the web application's appearance and functionality:
 
 ## Deployed Application
             
-Click [here](https://github.com/Wushangster/Note-Taker) to visit the associated GitHub repo.
+Click [here](https://github.com/Wushuangster/Note-Taker) to visit the associated GitHub repo.
 
 Click [here](https://w11-note-taker.herokuapp.com/notes) to visit the deployed application on Heroku.
 
